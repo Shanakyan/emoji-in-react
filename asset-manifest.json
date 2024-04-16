@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shanakyan/emoji-in-react/static/css/main.9c41ef85.css",
-    "main.js": "/Shanakyan/emoji-in-react/static/js/main.4176f2ac.js",
+    "main.css": "/Shanakyan/emoji-in-react/static/css/main.c2b93642.css",
+    "main.js": "/Shanakyan/emoji-in-react/static/js/main.6ce54920.js",
     "static/js/453.8ebef92b.chunk.js": "/Shanakyan/emoji-in-react/static/js/453.8ebef92b.chunk.js",
     "index.html": "/Shanakyan/emoji-in-react/index.html",
-    "main.9c41ef85.css.map": "/Shanakyan/emoji-in-react/static/css/main.9c41ef85.css.map",
-    "main.4176f2ac.js.map": "/Shanakyan/emoji-in-react/static/js/main.4176f2ac.js.map",
+    "main.c2b93642.css.map": "/Shanakyan/emoji-in-react/static/css/main.c2b93642.css.map",
+    "main.6ce54920.js.map": "/Shanakyan/emoji-in-react/static/js/main.6ce54920.js.map",
     "453.8ebef92b.chunk.js.map": "/Shanakyan/emoji-in-react/static/js/453.8ebef92b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c41ef85.css",
-    "static/js/main.4176f2ac.js"
+    "static/css/main.c2b93642.css",
+    "static/js/main.6ce54920.js"
   ]
 }
