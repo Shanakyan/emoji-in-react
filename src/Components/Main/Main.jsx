@@ -16,7 +16,7 @@ export const Main = () =>{
     const [emojiPerPage, setemojiPerPage] = useState(15);
 
     const paginate = () => {
-        setCurrentEmoji(currentEmoji+);
+        setCurrentEmoji(currentEmoji);
     };
 
     
